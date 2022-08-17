@@ -1,7 +1,7 @@
 [
 {
 "IconShow":"Open",
-"Version":"6.1.1",
+"Version":"6.1.0",
 "ApkLink":"H9"
 }
 ]
