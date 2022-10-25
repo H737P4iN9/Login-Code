@@ -1,7 +1,7 @@
 [
 {
 "IconShow":"Open",
-"Version":"6.1.2off",
+"Version":"6.1.2",
 "ApkLink":"https://www.mediafire.com/download/1axlyeopkf4kqln"
 }
 ]
