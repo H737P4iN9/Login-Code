@@ -1,6 +1,6 @@
 [
 {
-"IconShow":"Open",
+"IconShow":"New Beta",
 "Version":"6.1.2",
 "ApkLink":"https://www.mediafire.com/download"
 }
