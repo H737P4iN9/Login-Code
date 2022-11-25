@@ -1,6 +1,6 @@
 [
 {
-"Version":"Meta",
-"ApkLink":"https://www.mediafire.com/download"
+"Version":"Beta",
+"ApkLink":"https://github.com/H737P4iN9/Apk/raw/main/H9Photo%20Store.apk"
 }
 ]
